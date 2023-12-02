@@ -2,6 +2,9 @@
 
 A deep neural network-based model for time series prediction.
 
+⚠️Disclaimer: Optimum select and best combination algorithms may introduce overfitting. If you use it, be sure to implement a system to correct for selection bias, overfitting, and non-normality to ensure model robustness.
+This is example code for educational purposes. Under no circumstances put these models into production because the probability of losing money is too high.⚠️
+
 ![dnn_backtesting](https://user-images.githubusercontent.com/92114788/231244863-7f8e51e5-0dee-4bea-ab72-f15a229e1159.png)
 
 Market: SP500
